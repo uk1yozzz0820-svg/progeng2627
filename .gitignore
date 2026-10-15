@@ -1,0 +1,2 @@
+# Keep compiled Windows executables out of version control.
+*.[eE][xX][eE]
